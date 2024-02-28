@@ -1,0 +1,20 @@
+/* Reset */
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  line-height: 1.1;
+}
+body{
+  background-color: azure;
+}
+.navbar{
+  background-color: #03369b;
+  color: white;
+}
+
+.navbar img{
+  padding: 6px;
+  height: 50px;
+  width: auto;
+}
