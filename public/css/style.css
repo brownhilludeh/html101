@@ -18,3 +18,13 @@ body{
   height: 50px;
   width: auto;
 }
+
+a{
+  color: inherit;
+}
+
+.navitems{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
